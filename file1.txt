@@ -1,3 +1,6 @@
 Fist line
 Second line
 Last line
+Edited line
+Goes on
+6th line
